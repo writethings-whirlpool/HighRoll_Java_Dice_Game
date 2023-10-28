@@ -9,7 +9,7 @@ public class Main {
         
 //Introductions and instructions:
         System.out.println("٩(◕‿◕)۶ Are YOU the HIGHEST ROLLER?");
-        System.out.println("INSTRUCTIONS: You vs the Computer;
+        System.out.println("INSTRUCTIONS: You vs the Computer");
         System.out.println("Each player will roll the dice five times, and the one with the highest total sum wins.");
         System.out.println("\n(ง'̀-'́)ง Shall we begin?");
 
